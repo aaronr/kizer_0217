@@ -5,8 +5,10 @@
 <img src="images/dash_dot.png" style="max-height: 200px;">
 <hr>
 
-Make a new project - <small>https://www.khanacademy.org/computer-programming/new/pjs</small><br>
-Learn more!!! - <small>https://www.khanacademy.org/computing/computer-programming/programming</small>
+Car Parts! <br> <small>https://www.khanacademy.org/computer-programming/car-parts/5246084714135552</small><br>
+
+Make a new project <br> <small>https://www.khanacademy.org/computer-programming/new/pjs</small><br>
+Learn more!!! <br> <small>https://www.khanacademy.org/computing/computer-programming/programming</small>
 
 <!------------------------------------------------------------>
 --SLIDE--
@@ -114,3 +116,5 @@ if (mouseIsPressed) {
 --SLIDE--
 <!-- Topic: Example -->
 
+<img src="images/animate.png" style="max-height: 550px;">
+<h2><a href="https://www.khanacademy.org/computer-programming/car-animate/4737555586678784">Car Animate</a></h2>
