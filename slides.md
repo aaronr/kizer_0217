@@ -118,3 +118,13 @@ if (mouseIsPressed) {
 
 <img src="images/animate.png" style="max-height: 550px;">
 <h2><a href="https://www.khanacademy.org/computer-programming/car-animate/4737555586678784">Car Animate</a></h2>
+
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Example -->
+
+Car Parts! <br> <small>https://www.khanacademy.org/computer-programming/car-parts/5246084714135552</small><br>
+Car Basic! <br> <small>https://www.khanacademy.org/computer-programming/car-basic/6301677851836416</small><br>
+Car Animate! <br> <small>https://www.khanacademy.org/computer-programming/car-animate/4737555586678784</small><br>
+Chess! <br> <small>https://www.khanacademy.org/computer-programming/chess-board/5216344716410880</small><br>
