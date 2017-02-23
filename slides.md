@@ -127,4 +127,5 @@ if (mouseIsPressed) {
 Car Parts! <br> <small>https://www.khanacademy.org/computer-programming/car-parts/5246084714135552</small><br>
 Car Basic! <br> <small>https://www.khanacademy.org/computer-programming/car-basic/6301677851836416</small><br>
 Car Animate! <br> <small>https://www.khanacademy.org/computer-programming/car-animate/4737555586678784</small><br>
+Chess Simple! <br> <small>https://www.khanacademy.org/computer-programming/chess-board-simple/6240627238436864</small><br>
 Chess! <br> <small>https://www.khanacademy.org/computer-programming/chess-board/5216344716410880</small><br>
